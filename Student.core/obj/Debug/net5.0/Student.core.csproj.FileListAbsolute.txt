@@ -1,0 +1,12 @@
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\bin\Debug\net5.0\Student.core.deps.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\bin\Debug\net5.0\Student.core.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\bin\Debug\net5.0\Student.core.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\Student.core.csproj.AssemblyReference.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\Student.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\Student.core.AssemblyInfoInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\Student.core.AssemblyInfo.cs
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\Student.core.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\Student.core.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\refint\Student.core.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\Student.core.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\Student.core\obj\Debug\net5.0\ref\Student.core.dll
